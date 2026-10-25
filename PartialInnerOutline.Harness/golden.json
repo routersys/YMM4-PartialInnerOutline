@@ -1,0 +1,223 @@
+{
+  "adapter": "Intel(R) Iris(R) Xe Graphics",
+  "driver": "32.0.101.7085",
+  "input": "synthetic 640x480 89838D8976198E40",
+  "canvas": "1280x720",
+  "cases": [
+    {
+      "name": "default",
+      "frames": [
+        0
+      ],
+      "hash": "80E3F994F559192E3AAD3880D63A3DDCB082068369D980F7C5A3192C65805E85"
+    },
+    {
+      "name": "thickness-animated-frames",
+      "frames": [
+        0,
+        100,
+        200,
+        299
+      ],
+      "hash": "52165447E3A9E4AB51C590CBCC4ED6D185DC39FD9923DE8543A96C7151F29874"
+    },
+    {
+      "name": "band-direction-animated-frames",
+      "frames": [
+        0,
+        100,
+        200,
+        299
+      ],
+      "hash": "4B1EF8FB97FD55FAB81BF97F33738E6EBD2111465A68C26D2E9A33045B7A1AE0"
+    },
+    {
+      "name": "band-position-animated-frames",
+      "frames": [
+        0,
+        100,
+        200,
+        299
+      ],
+      "hash": "06354627B871591F1E325FF2909D20CD2722CC94B81D7A1ED3E570C18916CD50"
+    },
+    {
+      "name": "blur-animated-frames",
+      "frames": [
+        0,
+        100,
+        200,
+        299
+      ],
+      "hash": "C5ECB468FE6FAC1A82D0D30692AC78FCC7A1A5C3DF2F1C89982DCD50EA332466"
+    },
+    {
+      "name": "thickness-1",
+      "frames": [
+        0
+      ],
+      "hash": "AC13DC6F17724D83ECE9E8208D8BAA29BC42BBBA6EA684E719A31B312D7DC94E"
+    },
+    {
+      "name": "thickness-8",
+      "frames": [
+        0
+      ],
+      "hash": "0B39863016618CB5B4389D093F3B02975096F8419A86DBD1859C7F8AFBCE9D04"
+    },
+    {
+      "name": "thickness-24",
+      "frames": [
+        0
+      ],
+      "hash": "69F4BF304C947A9EA5FA374F1416DA3A5A29ED21F90BFA66C1A76331C4A5A5EC"
+    },
+    {
+      "name": "quality-3",
+      "frames": [
+        0
+      ],
+      "hash": "0ED5D81E3FB472ECFBF75FD26750DE9C7B0CEA9560F4A50B9E23BE45B70DB9B8"
+    },
+    {
+      "name": "quality-8",
+      "frames": [
+        0
+      ],
+      "hash": "B0CA4F4523342DE33EFFCB8B78D6994AB1F0D28DC019A34CAEAD8509A5803C07"
+    },
+    {
+      "name": "smoothness-0",
+      "frames": [
+        0
+      ],
+      "hash": "84A5C36E15A18A87954FC4D41A16C182B90F821177FFA08E641AA1B9FF476D20"
+    },
+    {
+      "name": "smoothness-50",
+      "frames": [
+        0
+      ],
+      "hash": "9A1DB3B2CE6E601DCE4339673F1FB6AA1A8B9217AE472E1FFF5793AEEEC4BBA3"
+    },
+    {
+      "name": "angular",
+      "frames": [
+        0
+      ],
+      "hash": "6489DFBEFA599C97A55360D2F46A52DF2E3945A535AD7C268BDBB67444C7280D"
+    },
+    {
+      "name": "band-direction-0",
+      "frames": [
+        0
+      ],
+      "hash": "78964B616B97CD1976CC90FCFFBAD55BC66A4F5429BE45A67DE59D74A1706924"
+    },
+    {
+      "name": "band-direction-45",
+      "frames": [
+        0
+      ],
+      "hash": "B0C94A6FAA93770A193F77D57E2DA08C6FBF8094A56A613CAA86C85DDFF391E1"
+    },
+    {
+      "name": "band-direction-180-position-60",
+      "frames": [
+        0
+      ],
+      "hash": "83B5D9E2EB4AF36B33AA75C8CBCCE081ACE51D501D937D313D6031CD44FDDD5F"
+    },
+    {
+      "name": "band-position-minus-60",
+      "frames": [
+        0
+      ],
+      "hash": "A9888B8BB3007ACABE5ACFF4C320624320CD10EB0069BB6D4B3795E8D41C544D"
+    },
+    {
+      "name": "band-position-60",
+      "frames": [
+        0
+      ],
+      "hash": "620295BF1C3195ACC9AFB07AF31D89C8BB697795C65B3747EADDCCF6C90C1138"
+    },
+    {
+      "name": "band-width-30",
+      "frames": [
+        0
+      ],
+      "hash": "25D5DE8E0D23037BEC72AC53ED7E18ECED0C7C7B44B12400A52E4668B5AA87AC"
+    },
+    {
+      "name": "band-width-200",
+      "frames": [
+        0
+      ],
+      "hash": "D894A40AB1E0AE4346BC23E66EB14BC524A23DAFA9F813580DEC10EBE9BC6B3E"
+    },
+    {
+      "name": "band-softness-0",
+      "frames": [
+        0
+      ],
+      "hash": "41EE8736988B19805724386B2FB7622504BF657DC5B60E7D638C8875B62A82F3"
+    },
+    {
+      "name": "band-softness-100",
+      "frames": [
+        0
+      ],
+      "hash": "34FDB5ABD0428D5868B34CD123913AAA19FEC848DFCAE77B92E383F83407E4EE"
+    },
+    {
+      "name": "opacity-0",
+      "frames": [
+        0
+      ],
+      "hash": "0A700F76CEDDBAD7C4B6A2C19D46939C1A93940E86C6EFEF1E5A53DB48D2A020"
+    },
+    {
+      "name": "opacity-50",
+      "frames": [
+        0
+      ],
+      "hash": "F641BC48C3096A104C12519EE2CA40BFCD77DA8359C648AA6BA9356958DC8782"
+    },
+    {
+      "name": "blur-4",
+      "frames": [
+        0
+      ],
+      "hash": "A707F6EFF0BC9AD4847B38C84541B056FA976782E3D857AEAD11535EC31C1393"
+    },
+    {
+      "name": "blur-12",
+      "frames": [
+        0
+      ],
+      "hash": "F94C5B356122C6ACE07BC52CAF72FB0F4D739861CCF9E028C0951B4DF13E8246"
+    },
+    {
+      "name": "blend-add",
+      "frames": [
+        0
+      ],
+      "hash": "CF6DA6B2E42DC7378F5EEA57BDA95A9ECCC375A023BA407313A7B99969F15FE0"
+    },
+    {
+      "name": "blend-multiply",
+      "frames": [
+        0
+      ],
+      "hash": "FFCCAD8DD4F0D73070070A3DA418C278D0D7A4EDCF4F36E1F422071FA0359381"
+    },
+    {
+      "name": "outline-only",
+      "frames": [
+        0
+      ],
+      "hash": "6FC7737B6FA5A62A4195299EF27BBF92058A1613D9F240B0C4E17F82CEBCC95A"
+    }
+  ]
+}
