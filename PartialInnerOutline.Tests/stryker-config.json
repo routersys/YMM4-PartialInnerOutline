@@ -1,0 +1,19 @@
+{
+  "stryker-config": {
+    "project": "PartialInnerOutline.csproj",
+    "test-runner": "mtp",
+    "coverage-analysis": "off",
+    "mutate": [
+      "**/*.cs",
+      "!**/YMM4-GitHubUpdateNotifier/**",
+      "!**/YMM4-Telemetry/**",
+      "!**/PartialInnerOutlineTelemetry.cs",
+      "!**/PartialInnerOutlineUpdateNotifier.cs"
+    ],
+    "reporters": [
+      "progress",
+      "cleartext",
+      "html"
+    ]
+  }
+}
