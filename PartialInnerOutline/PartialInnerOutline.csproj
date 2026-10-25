@@ -62,6 +62,7 @@
 
 	<ItemGroup>
 		<Resource Include="$(ShaderDirPath)OutlineDilation.cso" Link="Resources\Shader\OutlineDilation.cso" />
+		<Resource Include="$(ShaderDirPath)OutlineMask.cso" Link="Resources\Shader\OutlineMask.cso" />
 	</ItemGroup>
 
 	<ItemGroup>
