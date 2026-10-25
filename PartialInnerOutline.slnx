@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="PartialInnerOutline/PartialInnerOutline.csproj">
+    <BuildDependency Project="PartialInnerOutline.Shader/PartialInnerOutline.Shader.vcxproj" />
+  </Project>
+  <Project Path="PartialInnerOutline.Shader/PartialInnerOutline.Shader.vcxproj">
+    <BuildType Solution="*|*" Project="Release" />
+    <Platform Solution="*|*" Project="Win32" />
+  </Project>
+</Solution>
