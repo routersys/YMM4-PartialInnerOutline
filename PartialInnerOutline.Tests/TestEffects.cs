@@ -9,4 +9,7 @@ internal static class TestEffects
         configure?.Invoke(effect);
         return effect;
     }
+
+    public static void Paint(PartialInnerOutlineEffect effect, System.Windows.Media.Color color)
+        => ((dynamic)effect.Brush.Parameter).Color = color;
 }
